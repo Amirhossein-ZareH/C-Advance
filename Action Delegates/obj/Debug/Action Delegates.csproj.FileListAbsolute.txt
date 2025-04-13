@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Action Delegates\bin\Debug\Action Delegates.exe.config
+C:\Users\Day 2 Day\Desktop\Action Delegates\bin\Debug\Action Delegates.exe
+C:\Users\Day 2 Day\Desktop\Action Delegates\bin\Debug\Action Delegates.pdb
+C:\Users\Day 2 Day\Desktop\Action Delegates\obj\Debug\Action Delegates.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Action Delegates\obj\Debug\Action Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Action Delegates\obj\Debug\Action Delegates.exe
+C:\Users\Day 2 Day\Desktop\Action Delegates\obj\Debug\Action Delegates.pdb
