@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Anonymous Methods\bin\Debug\Anonymous Methods.exe.config
+C:\Users\Day 2 Day\Desktop\Anonymous Methods\bin\Debug\Anonymous Methods.exe
+C:\Users\Day 2 Day\Desktop\Anonymous Methods\bin\Debug\Anonymous Methods.pdb
+C:\Users\Day 2 Day\Desktop\Anonymous Methods\obj\Debug\Anonymous Methods.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Anonymous Methods\obj\Debug\Anonymous Methods.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Anonymous Methods\obj\Debug\Anonymous Methods.exe
+C:\Users\Day 2 Day\Desktop\Anonymous Methods\obj\Debug\Anonymous Methods.pdb
