@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Debugging\bin\Debug\Debugging.exe.config
+C:\Users\Day 2 Day\Desktop\Debugging\bin\Debug\Debugging.exe
+C:\Users\Day 2 Day\Desktop\Debugging\bin\Debug\Debugging.pdb
+C:\Users\Day 2 Day\Desktop\Debugging\obj\Debug\Debugging.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Debugging\obj\Debug\Debugging.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Debugging\obj\Debug\Debugging.exe
+C:\Users\Day 2 Day\Desktop\Debugging\obj\Debug\Debugging.pdb
