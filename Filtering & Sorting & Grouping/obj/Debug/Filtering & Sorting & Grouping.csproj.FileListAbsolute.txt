@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Filtering & Sorting & Grouping\bin\Debug\Filtering & Sorting & Grouping.exe.config
+C:\Users\Day 2 Day\Desktop\Filtering & Sorting & Grouping\bin\Debug\Filtering & Sorting & Grouping.exe
+C:\Users\Day 2 Day\Desktop\Filtering & Sorting & Grouping\bin\Debug\Filtering & Sorting & Grouping.pdb
+C:\Users\Day 2 Day\Desktop\Filtering & Sorting & Grouping\obj\Debug\Filtering & Sorting & Grouping.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Filtering & Sorting & Grouping\obj\Debug\Filtering & Sorting & Grouping.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Filtering & Sorting & Grouping\obj\Debug\Filtering & Sorting & Grouping.exe
+C:\Users\Day 2 Day\Desktop\Filtering & Sorting & Grouping\obj\Debug\Filtering & Sorting & Grouping.pdb
