@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Generic Delegate\bin\Debug\Generic Delegate.exe.config
+C:\Users\Day 2 Day\Desktop\Generic Delegate\bin\Debug\Generic Delegate.exe
+C:\Users\Day 2 Day\Desktop\Generic Delegate\bin\Debug\Generic Delegate.pdb
+C:\Users\Day 2 Day\Desktop\Generic Delegate\obj\Debug\Generic Delegate.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Generic Delegate\obj\Debug\Generic Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Generic Delegate\obj\Debug\Generic Delegate.exe
+C:\Users\Day 2 Day\Desktop\Generic Delegate\obj\Debug\Generic Delegate.pdb
