@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Generic derived class2\bin\Debug\Generic derived class2.exe.config
+C:\Users\Day 2 Day\Desktop\Generic derived class2\bin\Debug\Generic derived class2.exe
+C:\Users\Day 2 Day\Desktop\Generic derived class2\bin\Debug\Generic derived class2.pdb
+C:\Users\Day 2 Day\Desktop\Generic derived class2\obj\Debug\Generic derived class2.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Generic derived class2\obj\Debug\Generic derived class2.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Generic derived class2\obj\Debug\Generic derived class2.exe
+C:\Users\Day 2 Day\Desktop\Generic derived class2\obj\Debug\Generic derived class2.pdb
