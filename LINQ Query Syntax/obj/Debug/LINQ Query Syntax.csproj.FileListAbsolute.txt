@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\LINQ Query Syntax\bin\Debug\LINQ Query Syntax.exe.config
+C:\Users\Day 2 Day\Desktop\LINQ Query Syntax\bin\Debug\LINQ Query Syntax.exe
+C:\Users\Day 2 Day\Desktop\LINQ Query Syntax\bin\Debug\LINQ Query Syntax.pdb
+C:\Users\Day 2 Day\Desktop\LINQ Query Syntax\obj\Debug\LINQ Query Syntax.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\LINQ Query Syntax\obj\Debug\LINQ Query Syntax.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\LINQ Query Syntax\obj\Debug\LINQ Query Syntax.exe
+C:\Users\Day 2 Day\Desktop\LINQ Query Syntax\obj\Debug\LINQ Query Syntax.pdb
