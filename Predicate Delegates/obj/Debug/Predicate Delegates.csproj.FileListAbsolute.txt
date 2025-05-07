@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Predicate Delegates\bin\Debug\Predicate Delegates.exe.config
+C:\Users\Day 2 Day\Desktop\Predicate Delegates\bin\Debug\Predicate Delegates.exe
+C:\Users\Day 2 Day\Desktop\Predicate Delegates\bin\Debug\Predicate Delegates.pdb
+C:\Users\Day 2 Day\Desktop\Predicate Delegates\obj\Debug\Predicate Delegates.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Predicate Delegates\obj\Debug\Predicate Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Predicate Delegates\obj\Debug\Predicate Delegates.exe
+C:\Users\Day 2 Day\Desktop\Predicate Delegates\obj\Debug\Predicate Delegates.pdb
