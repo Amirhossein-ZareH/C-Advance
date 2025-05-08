@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Object Collections With Method Syntax\bin\Debug\Object Collections With Method Syntax.exe.config
+C:\Users\Day 2 Day\Desktop\Object Collections With Method Syntax\bin\Debug\Object Collections With Method Syntax.exe
+C:\Users\Day 2 Day\Desktop\Object Collections With Method Syntax\bin\Debug\Object Collections With Method Syntax.pdb
+C:\Users\Day 2 Day\Desktop\Object Collections With Method Syntax\obj\Debug\Object Collections With Method Syntax.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Object Collections With Method Syntax\obj\Debug\Object Collections With Method Syntax.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Object Collections With Method Syntax\obj\Debug\Object Collections With Method Syntax.exe
+C:\Users\Day 2 Day\Desktop\Object Collections With Method Syntax\obj\Debug\Object Collections With Method Syntax.pdb
