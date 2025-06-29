@@ -1,0 +1,16 @@
+C:\Users\Day 2 Day\Desktop\Encrypte\bin\Debug\net8.0-windows\Encrypte.exe
+C:\Users\Day 2 Day\Desktop\Encrypte\bin\Debug\net8.0-windows\Encrypte.deps.json
+C:\Users\Day 2 Day\Desktop\Encrypte\bin\Debug\net8.0-windows\Encrypte.runtimeconfig.json
+C:\Users\Day 2 Day\Desktop\Encrypte\bin\Debug\net8.0-windows\Encrypte.dll
+C:\Users\Day 2 Day\Desktop\Encrypte\bin\Debug\net8.0-windows\Encrypte.pdb
+C:\Users\Day 2 Day\Desktop\Encrypte\obj\Debug\net8.0-windows\Encrypte.Form1.resources
+C:\Users\Day 2 Day\Desktop\Encrypte\obj\Debug\net8.0-windows\Encrypte.csproj.GenerateResource.cache
+C:\Users\Day 2 Day\Desktop\Encrypte\obj\Debug\net8.0-windows\Encrypte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Day 2 Day\Desktop\Encrypte\obj\Debug\net8.0-windows\Encrypte.AssemblyInfoInputs.cache
+C:\Users\Day 2 Day\Desktop\Encrypte\obj\Debug\net8.0-windows\Encrypte.AssemblyInfo.cs
+C:\Users\Day 2 Day\Desktop\Encrypte\obj\Debug\net8.0-windows\Encrypte.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Encrypte\obj\Debug\net8.0-windows\Encrypte.dll
+C:\Users\Day 2 Day\Desktop\Encrypte\obj\Debug\net8.0-windows\refint\Encrypte.dll
+C:\Users\Day 2 Day\Desktop\Encrypte\obj\Debug\net8.0-windows\Encrypte.pdb
+C:\Users\Day 2 Day\Desktop\Encrypte\obj\Debug\net8.0-windows\Encrypte.genruntimeconfig.cache
+C:\Users\Day 2 Day\Desktop\Encrypte\obj\Debug\net8.0-windows\ref\Encrypte.dll
