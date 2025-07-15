@@ -1,0 +1,17 @@
+C:\Users\Day 2 Day\Desktop\RunWindows\bin\Debug\net8.0-windows\RunWindows.exe
+C:\Users\Day 2 Day\Desktop\RunWindows\bin\Debug\net8.0-windows\RunWindows.deps.json
+C:\Users\Day 2 Day\Desktop\RunWindows\bin\Debug\net8.0-windows\RunWindows.runtimeconfig.json
+C:\Users\Day 2 Day\Desktop\RunWindows\bin\Debug\net8.0-windows\RunWindows.dll
+C:\Users\Day 2 Day\Desktop\RunWindows\bin\Debug\net8.0-windows\RunWindows.pdb
+C:\Users\Day 2 Day\Desktop\RunWindows\obj\Debug\net8.0-windows\RunWindows.MainForm.resources
+C:\Users\Day 2 Day\Desktop\RunWindows\obj\Debug\net8.0-windows\RunWindows.csproj.GenerateResource.cache
+C:\Users\Day 2 Day\Desktop\RunWindows\obj\Debug\net8.0-windows\RunWindows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Day 2 Day\Desktop\RunWindows\obj\Debug\net8.0-windows\RunWindows.AssemblyInfoInputs.cache
+C:\Users\Day 2 Day\Desktop\RunWindows\obj\Debug\net8.0-windows\RunWindows.AssemblyInfo.cs
+C:\Users\Day 2 Day\Desktop\RunWindows\obj\Debug\net8.0-windows\RunWindows.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\RunWindows\obj\Debug\net8.0-windows\RunWindows.dll
+C:\Users\Day 2 Day\Desktop\RunWindows\obj\Debug\net8.0-windows\refint\RunWindows.dll
+C:\Users\Day 2 Day\Desktop\RunWindows\obj\Debug\net8.0-windows\RunWindows.pdb
+C:\Users\Day 2 Day\Desktop\RunWindows\obj\Debug\net8.0-windows\RunWindows.genruntimeconfig.cache
+C:\Users\Day 2 Day\Desktop\RunWindows\obj\Debug\net8.0-windows\ref\RunWindows.dll
+C:\Users\Day 2 Day\Desktop\RunWindows\obj\Debug\net8.0-windows\RunWindows.Properties.Resources.resources
